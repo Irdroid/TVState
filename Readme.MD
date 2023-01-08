@@ -1,4 +1,4 @@
-# TVState - USB Interface cable and utilities for determining the current TV status.
+# TVState - USB Interface cable and utilities for determining the current TV state.
 
 ### How it works?
 
