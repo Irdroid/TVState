@@ -4,8 +4,9 @@
 
 TVState is a USB cable that connects to your TV, the other end of the cable connects to your PC or Raspberry Pi. IF your TV is powered, it will enable power to all its built in USB ports. isMyTVon will report that voltage to the computer, connected to the other end of the isMyTVon cable. The supporting utilities are written in C and bash, the output of the utilities can be used to feed to another system or software that will further process the TV status information. 
 
-1. Connect one end of the isMyTVon cable to your TV, the other end to a Computer or a Raspberry Pi
-2. Use the supporting utilities to report TV current status
+1. Connect one end of the TVState cable to your TV, the other end to a Computer or a Raspberry Pi
+2. Use the supporting utilities to report TV current state
+3. Perform any automation with the output from the TVState utility.
 
 ### Applications
 - Digital Signage Systems

@@ -19,7 +19,7 @@
 
 int main( int argc, char *argv[])
 {
-    char *port;
+
     if (argc < 2) {
         printf("Usage ./tvstat ttyUSB[n] \n");
         return 1;
