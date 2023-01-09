@@ -13,5 +13,12 @@ TVState is a USB cable that connects to your TV, the other end of the cable conn
 - HTPC Computers, equipped with infrared transmitters (Useful to issue IR command, based on the current TV status)
 - Automation
 
+### Usage 
+
+1. Clone this repository
+2. Make
+3. ./tvstat ttyUSB[n] or tvstat.sh ttyUSB[n]
+
+For doing automation, simply use the bash script to assign actions based on the current TV State, or alter tvstat.c to customize.
 
 
