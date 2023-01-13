@@ -1,5 +1,5 @@
 # TVState - USB Interface cable and utilities for determining the current TV state.
-
+![TVState Hardware](https://raw.githubusercontent.com/Irdroid/TVState/main/Hardware/TVState_1.jpg)
 ### How it works?
 
 TVState is a USB cable that connects to your TV, the other end of the cable connects to your PC or Raspberry Pi. IF your TV is powered, it will enable power to all its built in USB ports. isMyTVon will report that voltage to the computer, connected to the other end of the isMyTVon cable. The supporting utilities are written in C and bash, the output of the utilities can be used to feed to another system or software that will further process the TV status information. 
